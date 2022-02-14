@@ -1,0 +1,1 @@
+{"id":"eae4ed84-f807-4ef0-847a-be6ffac8c756","space":18033,"runtime":"python3.9","name":"se-api-helper","path":"04259g","project":"a0f69quj","account":"144798365827","region":"eu-central-1","deps":["pycryptodome\u003e=3.9","pytest\u003e=6.0","fastapi"],"envs":null,"public":true,"log_level":"debug","cron":""}
